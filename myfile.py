@@ -1,3 +1,6 @@
 print("Hello  World")
-Name = print(input(("Enter Your Name ")))
-print("Hello " ,  Name )
+hungry = input("are you Hungry ")
+if hungry == 'yes':
+    print("Eat your food")
+else:
+    print("do ur work")
